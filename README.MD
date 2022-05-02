@@ -1,1 +1,1 @@
-Learned how to BUILD and DEPLOY FastAPI applications from scratch.
+Learned how to BUILD FastAPI applications from scratch.
